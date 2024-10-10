@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Supriya Kirasur
-- 👀 I’m working as QA 
+- 👀 I’m working as Quality Analyst
 - 🌱 I’m currently working on E-commerce applications 
 - 📫 How to reach me supriya.kirasur@remosys.in
 
